@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Varchasvi Darak ![Profile views](https://gpvc.arturio.dev/varchasvi7)  
-#### computer science engineer, web designer & open-source contributor
+#### computer science engineer, web designer & open-source contributor.
 I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
